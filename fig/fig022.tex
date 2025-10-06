@@ -1,0 +1,40 @@
+\begin{zahyou*}[ul=5mm](-1,13)(-1,5)
+
+	% \drawline(-1,-1)(-1,13)(13,13)(13,-1)(-1,-1)
+	\def\Fx{0.2*(cos(T)+T/3.5)+0.25}
+	\def\Fy{-0.3*sin(T)+0.4}
+	\BGurafu\Fx\Fy{3.14}{20*3.14}
+	\drawline(0,1)(0,0)
+	\drawline(0,0)(13,0)
+	\drawline(4,0.4)(3.8,0.4)
+	\def\A{(8,0)}
+	\def\AD{(8,-0.5)}
+	\def\B{(11.5,0)}
+	\def\C{(13,0)}
+	\Kaiten\A\C{30}\CC
+	\def\CD{(13,-0.5)}
+	\def\P{(4,0.8)}
+	\def\PD{(4,0.1)}
+	\def\PR{(6,0.8)}
+	\def\OU{(0,0.8)}
+	\Drawlines{\P\PD}
+	\Hasen{\A\CC}
+	\En*[0]{(4.3,0.3)}{0.3}
+	% \scriptsize
+	\hasen(6,1)(6,0)
+	\HenKo<henkotype=parallel
+			,henkoH=4ex
+			,yazirusi=b
+			,henkosideb=0.3
+			,henkosidet=1.5>\PR\OU{自然長}
+	\HenKo<henkotype=parallel
+			,henkoH=4.6ex
+			,yazirusi=b
+			,henkosideb=0.8
+			,henkosidet=1.2>\P\PR{$a$}
+	\Put\B(0pt,-10pt)[t]{B}
+	\Put\A(0pt,-10pt)[t]{A}
+	\Put\P(0pt,5pt)[l]{P}
+	\Nuritubusi*{\A\C\CD\AD\A}
+	\Kakukigou\C\A\CC<1.8>(2pt,1pt)[l]{30\Deg}
+\end{zahyou*}

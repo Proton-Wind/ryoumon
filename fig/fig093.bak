@@ -1,0 +1,277 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(35.9252,15.2461)(0.4921,-19.7047)%
+% STR 2 0 3 0 Black White  
+% 4 915 997 915 1035 2 0 0 0
+% S$_1$
+\put(9.0059,-10.1870){\makebox(0,0)[lb]{S$_1$}}%
+% STR 2 0 3 0 Black White  
+% 4 925 1413 925 1450 1 0 0 0
+% S$_2$
+\put(9.1043,-14.2717){\makebox(0,0)[lt]{S$_2$}}%
+% LINE 0 0 3 0 Black White  
+% 4 500 902 500 1202 500 1302 500 1602
+% 
+\special{pn 20}%
+\special{pa 492 888}%
+\special{pa 492 1183}%
+\special{fp}%
+\special{pa 492 1281}%
+\special{pa 492 1577}%
+\special{fp}%
+% LINE 0 0 3 0 Black White  
+% 6 900 602 900 1002 900 1102 900 1402 900 1502 900 2002
+% 
+\special{pn 20}%
+\special{pa 886 593}%
+\special{pa 886 986}%
+\special{fp}%
+\special{pa 886 1085}%
+\special{pa 886 1380}%
+\special{fp}%
+\special{pa 886 1478}%
+\special{pa 886 1970}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 300 1252 3700 1252
+% 
+\special{pn 8}%
+\special{pa 295 1232}%
+\special{pa 3642 1232}%
+\special{da 0.030}%
+% LINE 0 0 3 0 Black White  
+% 2 3400 602 3400 2002
+% 
+\special{pn 20}%
+\special{pa 3346 593}%
+\special{pa 3346 1970}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 900 1052 700 1052
+% 
+\special{pn 8}%
+\special{pa 886 1035}%
+\special{pa 689 1035}%
+\special{da 0.030}%
+% LINE 2 1 3 0 Black White  
+% 2 700 1450 900 1450
+% 
+\special{pn 8}%
+\special{pa 689 1427}%
+\special{pa 886 1427}%
+\special{da 0.030}%
+% VECTOR 2 0 3 0 Black White  
+% 8 800 1150 800 1050 800 1150 800 1250 800 1350 800 1250 800 1350 800 1450
+% 
+\special{pn 8}%
+\special{pa 787 1132}%
+\special{pa 787 1033}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 787 1033}%
+\special{pa 768 1099}%
+\special{pa 787 1086}%
+\special{pa 807 1099}%
+\special{pa 787 1033}%
+\special{fp}%
+\special{pa 787 1132}%
+\special{pa 787 1230}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 787 1230}%
+\special{pa 807 1164}%
+\special{pa 787 1178}%
+\special{pa 768 1164}%
+\special{pa 787 1230}%
+\special{fp}%
+\special{pa 787 1329}%
+\special{pa 787 1230}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 787 1230}%
+\special{pa 768 1296}%
+\special{pa 787 1282}%
+\special{pa 807 1296}%
+\special{pa 787 1230}%
+\special{fp}%
+\special{pa 787 1329}%
+\special{pa 787 1427}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 787 1427}%
+\special{pa 807 1361}%
+\special{pa 787 1375}%
+\special{pa 768 1361}%
+\special{pa 787 1427}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 705 1100 705 1150 5 0 0 0
+% $a$
+\put(6.9390,-11.3189){\makebox(0,0){$a$}}%
+% STR 2 0 3 0 Black White  
+% 4 705 1300 705 1350 5 0 0 0
+% $a$
+\put(6.9390,-13.2874){\makebox(0,0){$a$}}%
+% LINE 2 0 3 0 Black White  
+% 4 900 1050 3400 850 900 1450 3400 850
+% 
+\special{pn 8}%
+\special{pa 886 1033}%
+\special{pa 3346 837}%
+\special{fp}%
+\special{pa 886 1427}%
+\special{pa 3346 837}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 3400 850 3600 850
+% 
+\special{pn 8}%
+\special{pa 3346 837}%
+\special{pa 3543 837}%
+\special{da 0.030}%
+% VECTOR 2 0 3 0 Black White  
+% 4 3500 1050 3500 850 3500 1050 3500 1250
+% 
+\special{pn 8}%
+\special{pa 3445 1033}%
+\special{pa 3445 837}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3445 837}%
+\special{pa 3425 903}%
+\special{pa 3445 889}%
+\special{pa 3465 903}%
+\special{pa 3445 837}%
+\special{fp}%
+\special{pa 3445 1033}%
+\special{pa 3445 1230}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3445 1230}%
+\special{pa 3465 1164}%
+\special{pa 3445 1178}%
+\special{pa 3425 1164}%
+\special{pa 3445 1230}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 3580 1000 3580 1050 5 0 0 0
+% $x$
+\put(35.2362,-10.3346){\makebox(0,0){$x$}}%
+% STR 2 0 3 0 Black White  
+% 4 3415 797 3415 835 2 0 1 0
+% P
+\put(33.6122,-8.2185){\makebox(0,0)[lb]{{\colorbox[named]{White}{P}}}}%
+% STR 2 0 3 0 Black White  
+% 4 3415 1238 3415 1275 1 0 1 0
+% O
+\put(33.6122,-12.5492){\makebox(0,0)[lt]{{\colorbox[named]{White}{O}}}}%
+% VECTOR 2 0 3 0 Black White  
+% 4 2000 1875 900 1875 2000 1875 3400 1875
+% 
+\special{pn 8}%
+\special{pa 1969 1845}%
+\special{pa 886 1845}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 886 1845}%
+\special{pa 952 1865}%
+\special{pa 938 1845}%
+\special{pa 952 1826}%
+\special{pa 886 1845}%
+\special{fp}%
+\special{pa 1969 1845}%
+\special{pa 3346 1845}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3346 1845}%
+\special{pa 3281 1826}%
+\special{pa 3294 1845}%
+\special{pa 3281 1865}%
+\special{pa 3346 1845}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2100 1825 2100 1875 5 0 1 0
+% $\ell $
+\put(20.6693,-18.4547){\makebox(0,0){{\colorbox[named]{White}{$\ell $}}}}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 170 1250 225 1250 225 1250 225 1250
+% 
+\special{pn 8}%
+\special{ar 167 1230 54 54 0.0000000 6.2831853}%
+% LINE 2 0 3 0 Black White  
+% 2 244 1250 269 1250
+% 
+\special{pn 8}%
+\special{pa 240 1230}%
+\special{pa 265 1230}%
+\special{fp}%
+% LINE 2 0 3 1 Black White  
+% 2 72 1250 97 1250
+% 
+\special{pn 8}%
+\special{pa 71 1230}%
+\special{pa 95 1230}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 172 1178 172 1153
+% 
+\special{pn 8}%
+\special{pa 169 1159}%
+\special{pa 169 1135}%
+\special{fp}%
+% LINE 2 0 3 1 Black White  
+% 2 172 1350 172 1325
+% 
+\special{pn 8}%
+\special{pa 169 1329}%
+\special{pa 169 1304}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 118 1198 101 1181
+% 
+\special{pn 8}%
+\special{pa 116 1179}%
+\special{pa 99 1162}%
+\special{fp}%
+% LINE 2 0 3 1 Black White  
+% 2 240 1320 222 1302
+% 
+\special{pn 8}%
+\special{pa 236 1299}%
+\special{pa 219 1281}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 222 1198 239 1181
+% 
+\special{pn 8}%
+\special{pa 219 1179}%
+\special{pa 235 1162}%
+\special{fp}%
+% LINE 2 0 3 1 Black White  
+% 2 100 1320 118 1302
+% 
+\special{pn 8}%
+\special{pa 98 1299}%
+\special{pa 116 1281}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 170 1018 170 1038 5 0 0 0
+% 光源
+\put(1.6732,-10.2165){\makebox(0,0){光源}}%
+% STR 2 0 3 0 Black White  
+% 4 458 778 458 798 5 0 0 0
+% スリット面I
+\put(4.5079,-7.8543){\makebox(0,0){スリット面I}}%
+% STR 2 0 3 0 Black White  
+% 4 898 498 898 518 5 0 0 0
+% スリット面II
+\put(8.8386,-5.0984){\makebox(0,0){スリット面II}}%
+% STR 2 0 3 0 Black White  
+% 4 3404 498 3404 518 5 0 0 0
+% スクリーン
+\put(33.5039,-5.0984){\makebox(0,0){スクリーン}}%
+% STR 2 0 3 0 Black White  
+% 4 492 1218 492 1256 4 0 0 0
+% S$_0$
+\put(4.8425,-12.3622){\makebox(0,0)[rt]{S$_0$}}%
+\end{picture}}%

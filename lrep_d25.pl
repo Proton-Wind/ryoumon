@@ -1,0 +1,4 @@
+open(FHNDL,">./lrep_d25.dta");
+require 'emath.pl';
+for($x=0;$x<1;$x+=.05){printf FHNDL"(%f,%f)",0.1*sin(6.28319*($x)),$x};$x=1;printf FHNDL"(%f,%f)",0.1*sin(6.28319*($x)),$x;
+close(FHNDL);

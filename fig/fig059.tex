@@ -1,0 +1,52 @@
+{\unitlength6mm\small
+% \Drawaxisfalse
+\begin{zahyou}[yscale=0.20
+    ,yokozikukigou={体積}
+    ,tatezikukigou={圧力}
+    ,gentenkigou={}](0,8)(0,32)
+\small
+\def\XB{1.11}
+\def\XC{4}
+\def\XD{6}
+\def\XA{3.75}
+
+\def\Fx{16*X**{-1*5/3}}
+\def\Gx{90*X**{-1}}
+\funcval\Fx{\XB}\YB
+\funcval\Fx{\XC}\YC
+\funcval\Gx{\XA}\YA
+\funcval\Gx{\XD}\YE
+\def\A{(\XA,\YA)}
+\def\B{(\XB,\YB)}
+\def\C{(\XC,\YC)}
+\def\D{(\XD,\YC)}
+\def\E{(\XD,\YE)}
+% \kuromaru{\A;\B;\C;\D;\E}
+\Put\A{A}
+\Put\B[nw]{B}
+\Put\C[s]{C}
+\Put\D[se]{D}
+\Put\E[ne]{E}
+\funcval\Fx{2}\BCY
+\funcval\Gx{4.9}\AEY
+{
+\put(2.5,\YB){\yasen(-0.2,0)}
+\put(2,\BCY){\yasen(0.2,-1.3)}
+\put(5,\YC){\yasen(0.2,0)}
+\calcval{(\YC+\YE)*0.5}\CDY
+\put(\XD,\CDY){\yasen(0,0.2)}
+\put(4.9,\AEY){\yasen(-0.2,0.8)}
+}
+{\thicklines
+\YGurafu(*)\Fx{\XB}{\XC}
+\YGurafu(*)\Gx{\XA}{\XD}
+\Drawlines{\A\B;\C\D\E}
+% \changeArrowHeadSize<0.333>{2}
+% \put(2.5,\YB){\yasen(-0.2,0)}
+% \put(2,\BCY){\yasen(0.2,-1.3)}
+% \put(5,\YC){\yasen(0.2,0)}
+}
+\Put\B[syaei=y,ylabel=]{}
+\Put\C[syaei=y,ylabel=]{}
+\Put\D[syaei=x,xlabel=]{}
+\end{zahyou}}

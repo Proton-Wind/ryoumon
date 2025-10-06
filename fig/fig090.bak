@@ -1,0 +1,94 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(17.7165,19.1043)(3.9370,-30.2362)%
+% CIRCLE 2 0 3 0 Black White  
+% 4 700 2135 1000 2135 1000 2135 1000 2135
+% 
+\special{pn 8}%
+\special{ar 689 2101 295 295 0.0000000 6.2831853}%
+% DOT 0 0 3 0 Black White  
+% 1 700 2135
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 689 2101 16 16 0 6.2831853}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 700 2135 1300 2135 400 3035 400 1535
+% 
+\special{pn 8}%
+\special{ar 689 2101 591 591 4.2487414 1.8925469}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 700 2135 1600 2135 400 3335 400 1235
+% 
+\special{pn 8}%
+\special{ar 689 2101 886 886 4.3906384 1.8157750}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 700 2135 1900 2135 1900 3635 1300 1235
+% 
+\special{pn 8}%
+\special{ar 689 2101 1181 1181 5.3003916 0.8960554}%
+% DOT 0 0 3 0 Black White  
+% 1 1900 2135
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1870 2101 16 16 0 6.2831853}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1900 2129 1600 2129 1600 2129 1600 2129
+% 
+\special{pn 8}%
+\special{ar 1870 2095 295 295 0.0000000 6.2831853}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1900 2129 1300 2129 2200 1529 2200 3029
+% 
+\special{pn 8}%
+\special{ar 1870 2095 591 591 1.2490458 5.1760366}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1900 2129 1000 2129 2200 1229 2200 3329
+% 
+\special{pn 8}%
+\special{ar 1870 2095 886 886 1.3258177 5.0341395}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1900 2129 700 2129 1300 1229 700 3629
+% 
+\special{pn 8}%
+\special{ar 1870 2095 1181 1181 2.2455373 4.1243864}%
+% DOT 0 1 3 0 Black White  
+% 1 1201 2693
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1182 2651 16 16 0 6.2831853}%
+% DOT 0 2 3 0 Black White  
+% 1 1075 1490
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1058 1467 16 16 0 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1075 1538 1075 1568 5 0 0 0
+% P$_3$
+\put(10.5807,-15.4331){\makebox(0,0){P$_3$}}%
+% STR 2 0 3 0 Black White  
+% 4 580 2105 580 2135 5 0 0 0
+% $A$
+\put(5.7087,-21.0138){\makebox(0,0){$A$}}%
+% STR 2 0 3 0 Black White  
+% 4 2020 2105 2020 2135 5 0 0 0
+% $B$
+\put(19.8819,-21.0138){\makebox(0,0){$B$}}%
+% STR 2 0 3 0 Black White  
+% 4 1255 2618 1255 2648 5 0 0 0
+% P$_2$
+\put(12.3524,-26.0630){\makebox(0,0){P$_2$}}%
+% DOT 0 0 3 0 Black White  
+% 1 1747 1550
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1719 1526 16 16 0 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1801 1385 1801 1415 5 0 0 0
+% P$_1$
+\put(17.7264,-13.9272){\makebox(0,0){P$_1$}}%
+\end{picture}}%

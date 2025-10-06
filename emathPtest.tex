@@ -1,0 +1,94 @@
+\documentclass[a4paper,9pt]{jsarticle}
+% \documentclass[b5j,9.5pt]{jsbook}
+\usepackage[noalphabet]{pxchfon}
+% \setminchofont{UDDIGIKYOKASHON-R.TTC} 
+% \setgothicfont{UDDIGIKYOKASHON-B.TTC} 
+%\setminchofont{BIZ-UDMINCHOM.TTC} 
+%\setgothicfont{BIZ-UDGOTHICR.TTC} 
+\usepackage{okumacro}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{fancybox}
+\usepackage{enumerate}
+\usepackage{multicol}
+\usepackage{ascmac,itembbox,emath,hako,scrpage,ulinej,emathP,emathPp,emathMw,emathEy}
+% \usepackage{emathP,emathPp}
+\usepackage[version=4]{mhchem}
+%\usepackage[draft]{graphicx}
+% \usepackage{graphicx}
+\usepackage{picins}
+% \usepackage{amsmath}
+% \usepackage{amsthm,amssymb,color}
+% \usepackage{enumerate,multicol,mystyle}
+% \usepackage{picins,emath,emathP,emathPp,itembbox,hako}
+% \usepackage{emathMw}
+\usepackage{graphicx}
+%\usepackage{array}
+\pagestyle{empty}
+\setlength{\textheight}{265mm}
+\setlength{\textwidth}{195mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-25.4mm}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\def\genshi#1#2#3{$^{#1}_{#2}${{\large \sffamily{#3}}}}
+\def\gen#1{\large \sf{#1}}
+\def\hic{cal/g$\cdot $K}
+\def\hij{J/g$\cdot $K}
+\def\tanni#1{$〔\mathrm{\sf #1}〕\kern -2pt$}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\def\gen#1#2#3{{\sf{\ce{_{#2}^{#1}#3}}}}
+
+\begin{document}
+\begin{center}
+{\Large emathP練習}
+\end{center}
+\begin{zahyou*}[ul=4.5mm,yscale=1.2,xscale=1.2](-1,13)(-1,13)
+
+	% \drawline(-1,-1)(-1,13)(13,13)(13,-1)(-1,-1)
+	\def\Fx{-0.5*sin(T)+10.2}
+	\def\Fy{-0.2*(cos(T)+T/3)+10}
+	\BGurafu\Fx\Fy{3.14}{20*3.14}
+	\drawline(10,10)(10,11)
+	\drawline(10,3)(10,5.628)
+	\def\A{(1,3)}
+	\def\B{(10,3)}
+	\def\AD{(1,2.5)}
+	\def\BD{(10,2.5)}
+	\def\O{(0,2.5)}
+	\def\P{(7,2.5)}
+	\def\PU{(7,3)}
+	\def\Q{(7,0)}
+	\def\QR{(6.5,0)}
+	\def\PSW{(6.5,2)}
+	\def\OD{(0,2)}
+	\def\R{(10,11)}
+	\def\fvec{(0,2)}
+	\def\base{(3,1)}
+	\Drawlines{\A\B\BD\AD\A}
+	\Drawlines{\O\P\Q}
+	% \scriptsize
+	\HenKo<henkotype=parallel
+			,henkoH=5ex
+			,yazirusi=b
+			,henkosideb=0.3
+			,henkosidet=1.5>\B\A{$L$}
+	\HenKo<henkotype=parallel
+			,henkoH=1.6ex
+			,yazirusi=b
+			,henkosideb=0.3
+			,henkosidet=1.5>\B\PU{$\ell$}
+	\Put\B[e]{A}
+	\Put\A[nw]{B}
+	\Put\P[se]{P}
+	\Put\R{\Yasen\fvec}
+	\Put\base{台}
+	\Kuromaru\R
+	\Nuritubusi*<.22>{\A\B\BD\AD\A}
+	\Nuritubusi[0.3]{\OD\O\P\Q\QR\PSW\OD}
+
+
+\end{zahyou*}
+
+\end{document}

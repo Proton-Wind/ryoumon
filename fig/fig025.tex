@@ -1,0 +1,39 @@
+\begin{zahyou*}[ul=5mm](-1,15)(-1,5)
+	% \drawline(-1,-1)(-1,13)(13,13)(13,-1)(-1,-1)
+	\def\kakudo{35}
+	\calcval{\kakudo *2*3.14159265/360}\TH
+	\def\A{(0,0)}
+	\def\B{(7,0)}
+	\def\C{(15,0)}
+	\def\BD{(7,-0.3)}
+	\def\CD{(15,-0.3)}
+	\def\E{(10,0)}
+	\def\F{(1,0)}
+	\def\G{(1.5,0)}
+	\def\H{(1.5,0.3)}
+	\def\I{(1,0.3)}
+	\def\J{(5,0)}
+	\def\K{(5.5,0)}
+	\def\L{(5.5,0.3)}
+	\def\M{(5,0.3)}
+	\def\N{(1.25,0.6)}
+	\def\vvec{(2,0)}
+	\Kaiten\B\C{\kakudo}\CC
+	\Kaiten\B\CD{\kakudo}\CCD
+	\Kaiten\B\BD{\kakudo}\BBD
+	\Nuritubusi*[75]{\B\CC\CCD\BBD}
+	\Hasen{\B\E}
+	\Drawline{\A\B}
+	\Drawline{\B\CC}
+	\Drawline{\F\G\H\I\F}
+	\Drawline{\J\K\L\M\J}
+	\Nuritubusi*{\J\K\L\M}
+	\Put\CC[ne]{C}
+	\Put\B[s]{B}
+	\Put\A[sw]{A}
+	\Put\I[nw]{P}
+	\Put\L[ne]{Q}
+	\Put\N{\Yasen\vvec}
+	\Put\N[ne]{$v_0$}
+	\Kakukigou\E\B\CC<hankei=1.5>(2pt,0.8pt)[l]{$\theta$}
+\end{zahyou*}

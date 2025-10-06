@@ -1,0 +1,355 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(29.0256,12.5492)(3.4449,-23.3760)%
+% BOX 2 0 3 0 Black White  
+% 2 916 1100 990 1325
+% 
+\special{pn 8}%
+\special{pa 902 1083}%
+\special{pa 974 1083}%
+\special{pa 974 1304}%
+\special{pa 902 1304}%
+\special{pa 902 1083}%
+\special{pa 974 1083}%
+\special{fp}%
+% BOX 2 0 3 0 Black White  
+% 2 916 1400 990 2075
+% 
+\special{pn 8}%
+\special{pa 902 1378}%
+\special{pa 974 1378}%
+\special{pa 974 2042}%
+\special{pa 902 2042}%
+\special{pa 902 1378}%
+\special{pa 974 1378}%
+\special{fp}%
+% BOX 2 0 3 0 Black White  
+% 2 916 2150 990 2375
+% 
+\special{pn 8}%
+\special{pa 902 2116}%
+\special{pa 974 2116}%
+\special{pa 974 2338}%
+\special{pa 902 2338}%
+\special{pa 902 2116}%
+\special{pa 974 2116}%
+\special{fp}%
+% LINE 3 0 3 0 Black White  
+% 24 988 2255 912 2330 988 2278 912 2352 988 2300 916 2371 988 2322 935 2375 988 2345 958 2375 988 2232 912 2308 988 2210 912 2285 988 2188 912 2262 988 2165 912 2240 980 2150 912 2218 958 2150 912 2195 935 2150 912 2172
+% 
+\special{pn 4}%
+\special{pa 972 2219}%
+\special{pa 898 2293}%
+\special{fp}%
+\special{pa 972 2242}%
+\special{pa 898 2315}%
+\special{fp}%
+\special{pa 972 2264}%
+\special{pa 902 2334}%
+\special{fp}%
+\special{pa 972 2285}%
+\special{pa 920 2338}%
+\special{fp}%
+\special{pa 972 2308}%
+\special{pa 943 2338}%
+\special{fp}%
+\special{pa 972 2197}%
+\special{pa 898 2272}%
+\special{fp}%
+\special{pa 972 2175}%
+\special{pa 898 2249}%
+\special{fp}%
+\special{pa 972 2154}%
+\special{pa 898 2226}%
+\special{fp}%
+\special{pa 972 2131}%
+\special{pa 898 2205}%
+\special{fp}%
+\special{pa 965 2116}%
+\special{pa 898 2183}%
+\special{fp}%
+\special{pa 943 2116}%
+\special{pa 898 2160}%
+\special{fp}%
+\special{pa 920 2116}%
+\special{pa 898 2138}%
+\special{fp}%
+% LINE 3 0 3 0 Black White  
+% 64 988 1962 912 2038 988 1985 912 2060 988 2008 920 2075 988 2030 942 2075 988 2052 965 2075 988 1940 912 2015 988 1918 912 1992 988 1895 912 1970 988 1872 912 1948 988 1850 912 1925 988 1828 912 1902 988 1805 912 1880 988 1782 912 1858 988 1760 912 1835 988 1738 912 1812 988 1715 912 1790 988 1692 912 1768 988 1670 912 1745 988 1648 912 1722 988 1625 912 1700 988 1602 912 1678 988 1580 912 1655 988 1558 912 1632 988 1535 912 1610 988 1512 912 1588 988 1490 912 1565 988 1468 912 1542 988 1445 912 1520 988 1422 912 1498 984 1404 912 1475 965 1400 912 1452 942 1400 912 1430
+% 
+\special{pn 4}%
+\special{pa 972 1931}%
+\special{pa 898 2006}%
+\special{fp}%
+\special{pa 972 1954}%
+\special{pa 898 2028}%
+\special{fp}%
+\special{pa 972 1976}%
+\special{pa 906 2042}%
+\special{fp}%
+\special{pa 972 1998}%
+\special{pa 927 2042}%
+\special{fp}%
+\special{pa 972 2020}%
+\special{pa 950 2042}%
+\special{fp}%
+\special{pa 972 1909}%
+\special{pa 898 1983}%
+\special{fp}%
+\special{pa 972 1888}%
+\special{pa 898 1961}%
+\special{fp}%
+\special{pa 972 1865}%
+\special{pa 898 1939}%
+\special{fp}%
+\special{pa 972 1843}%
+\special{pa 898 1917}%
+\special{fp}%
+\special{pa 972 1821}%
+\special{pa 898 1895}%
+\special{fp}%
+\special{pa 972 1799}%
+\special{pa 898 1872}%
+\special{fp}%
+\special{pa 972 1777}%
+\special{pa 898 1850}%
+\special{fp}%
+\special{pa 972 1754}%
+\special{pa 898 1829}%
+\special{fp}%
+\special{pa 972 1732}%
+\special{pa 898 1806}%
+\special{fp}%
+\special{pa 972 1711}%
+\special{pa 898 1783}%
+\special{fp}%
+\special{pa 972 1688}%
+\special{pa 898 1762}%
+\special{fp}%
+\special{pa 972 1665}%
+\special{pa 898 1740}%
+\special{fp}%
+\special{pa 972 1644}%
+\special{pa 898 1718}%
+\special{fp}%
+\special{pa 972 1622}%
+\special{pa 898 1695}%
+\special{fp}%
+\special{pa 972 1599}%
+\special{pa 898 1673}%
+\special{fp}%
+\special{pa 972 1577}%
+\special{pa 898 1652}%
+\special{fp}%
+\special{pa 972 1555}%
+\special{pa 898 1629}%
+\special{fp}%
+\special{pa 972 1533}%
+\special{pa 898 1606}%
+\special{fp}%
+\special{pa 972 1511}%
+\special{pa 898 1585}%
+\special{fp}%
+\special{pa 972 1488}%
+\special{pa 898 1563}%
+\special{fp}%
+\special{pa 972 1467}%
+\special{pa 898 1540}%
+\special{fp}%
+\special{pa 972 1445}%
+\special{pa 898 1518}%
+\special{fp}%
+\special{pa 972 1422}%
+\special{pa 898 1496}%
+\special{fp}%
+\special{pa 972 1400}%
+\special{pa 898 1474}%
+\special{fp}%
+\special{pa 969 1382}%
+\special{pa 898 1452}%
+\special{fp}%
+\special{pa 950 1378}%
+\special{pa 898 1429}%
+\special{fp}%
+\special{pa 927 1378}%
+\special{pa 898 1407}%
+\special{fp}%
+% LINE 3 0 3 0 Black White  
+% 26 988 1220 912 1295 988 1242 912 1318 988 1265 928 1325 988 1288 950 1325 988 1310 972 1325 988 1198 912 1272 988 1175 912 1250 988 1152 912 1228 988 1130 912 1205 988 1108 912 1182 972 1100 912 1160 950 1100 912 1138 928 1100 912 1115
+% 
+\special{pn 4}%
+\special{pa 972 1201}%
+\special{pa 898 1275}%
+\special{fp}%
+\special{pa 972 1222}%
+\special{pa 898 1297}%
+\special{fp}%
+\special{pa 972 1245}%
+\special{pa 913 1304}%
+\special{fp}%
+\special{pa 972 1268}%
+\special{pa 935 1304}%
+\special{fp}%
+\special{pa 972 1289}%
+\special{pa 957 1304}%
+\special{fp}%
+\special{pa 972 1179}%
+\special{pa 898 1252}%
+\special{fp}%
+\special{pa 972 1156}%
+\special{pa 898 1230}%
+\special{fp}%
+\special{pa 972 1134}%
+\special{pa 898 1209}%
+\special{fp}%
+\special{pa 972 1112}%
+\special{pa 898 1186}%
+\special{fp}%
+\special{pa 972 1091}%
+\special{pa 898 1163}%
+\special{fp}%
+\special{pa 957 1083}%
+\special{pa 898 1142}%
+\special{fp}%
+\special{pa 935 1083}%
+\special{pa 898 1120}%
+\special{fp}%
+\special{pa 913 1083}%
+\special{pa 898 1097}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 957 1366 3282 1366
+% 
+\special{pn 8}%
+\special{pa 942 1344}%
+\special{pa 3230 1344}%
+\special{da 0.030}%
+% STR 2 0 3 0 Black White  
+% 4 3334 1329 3334 1366 5 0 0 0
+% T
+\put(32.8150,-13.4449){\makebox(0,0){T}}%
+% DOT 0 1 3 0 Black White  
+% 1 2753 1366
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 2710 1344 16 16 0 6.2831853}%
+% VECTOR 2 0 3 0 Black White  
+% 4 1062 1666 1062 1366 1062 1741 1062 2112
+% 
+\special{pn 8}%
+\special{pa 1045 1640}%
+\special{pa 1045 1344}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1045 1344}%
+\special{pa 1026 1410}%
+\special{pa 1045 1397}%
+\special{pa 1065 1410}%
+\special{pa 1045 1344}%
+\special{fp}%
+\special{pa 1045 1714}%
+\special{pa 1045 2079}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1045 2079}%
+\special{pa 1065 2013}%
+\special{pa 1045 2027}%
+\special{pa 1026 2013}%
+\special{pa 1045 2079}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1180 1662 1180 1700 5 0 1 0
+% 5{\sf cm}
+\put(11.6142,-16.7323){\makebox(0,0){{\colorbox[named]{White}{5{\sf cm}}}}}%
+% VECTOR 2 0 3 0 Black White  
+% 4 1732 1174 982 1174 1732 1174 2748 1174
+% 
+\special{pn 8}%
+\special{pa 1705 1156}%
+\special{pa 967 1156}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 967 1156}%
+\special{pa 1032 1175}%
+\special{pa 1019 1156}%
+\special{pa 1032 1136}%
+\special{pa 967 1156}%
+\special{fp}%
+\special{pa 1705 1156}%
+\special{pa 2705 1156}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2705 1156}%
+\special{pa 2639 1136}%
+\special{pa 2653 1156}%
+\special{pa 2639 1175}%
+\special{pa 2705 1156}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1774 1136 1774 1174 5 0 1 0
+% 12{\sf cm}
+\put(17.4606,-11.5551){\makebox(0,0){{\colorbox[named]{White}{12{\sf cm}}}}}%
+% STR 2 0 3 0 Black White  
+% 4 2750 1231 2750 1269 5 0 0 0
+% A$_1$
+\put(27.0669,-12.4902){\makebox(0,0){A$_1$}}%
+% STR 2 0 3 0 Black White  
+% 4 1475 1231 1475 1269 5 0 0 0
+% A$_2$
+\put(14.5177,-12.4902){\makebox(0,0){A$_2$}}%
+% DOT 0 1 3 0 Black White  
+% 1 1478 1366
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1455 1344 16 16 0 6.2831853}%
+% LINE 2 0 3 0 Black White  
+% 2 800 1100 800 2375
+% 
+\special{pn 8}%
+\special{pa 787 1083}%
+\special{pa 787 2338}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 500 2375 500 1100
+% 
+\special{pn 8}%
+\special{pa 492 2338}%
+\special{pa 492 1083}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 650 1100 650 2375
+% 
+\special{pn 8}%
+\special{pa 640 1083}%
+\special{pa 640 2338}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 350 1100 350 2375
+% 
+\special{pn 8}%
+\special{pa 344 1083}%
+\special{pa 344 2338}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 800 1310 800 1348 5 0 1 0
+% S$_1$
+\put(7.8740,-13.2677){\makebox(0,0){{\colorbox[named]{White}{S$_1$}}}}%
+% STR 2 0 3 0 Black White  
+% 4 800 2075 800 2112 5 0 1 0
+% S$_2$
+\put(7.8740,-20.7874){\makebox(0,0){{\colorbox[named]{White}{S$_2$}}}}%
+% STR 2 0 3 0 Black White  
+% 4 500 1666 500 1704 5 0 1 0
+% 平
+\put(4.9213,-16.7717){\makebox(0,0){{\colorbox[named]{White}{平}}}}%
+% STR 2 0 3 0 Black White  
+% 4 500 1814 500 1851 5 0 1 0
+% 面
+\put(4.9213,-18.2185){\makebox(0,0){{\colorbox[named]{White}{面}}}}%
+% STR 2 0 3 0 Black White  
+% 4 500 1971 500 2009 5 0 1 0
+% 波
+\put(4.9213,-19.7736){\makebox(0,0){{\colorbox[named]{White}{波}}}}%
+\end{picture}}%

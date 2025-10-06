@@ -1,0 +1,32 @@
+\begin{zahyou*}[ul=6mm](0,11)(-1,10)
+    \small
+    \tenretu*{
+        A(0,1.5);
+        B(2,3.5);
+        C(7,3.5);
+        D(10,9);
+    }
+    {\Thicklines
+    \Drawline{\A\B\C\D}
+    }
+    % \Put\A[w]{-20}
+    \ymemori<-20>{1.5}
+    \ymemori<50>{9}
+    \ymemori<0>{3.5}
+    \ArrowLine{(0,1)}{(0,10)}
+    \ArrowLine{(0,0.2)}{(10,0.2)}
+    \hasen(0,3.5)(10,3.5)
+    \hasen(0,9)(10,9)(10,1)
+    \hasen(2,3.5)(2,1)
+    \hasen(7,3.5)(7,1)
+    \HenKo<henkotype=parallel
+            ,yazirusi=b>{(0,1.5)}{(2,1.5)}{40秒}
+    \HenKo<henkotype=parallel
+            ,yazirusi=b>{(2,2.5)}{(7,2.5)}{320秒}
+    \HenKo<henkotype=parallel
+            ,yazirusi=b>{(7,1.5)}{(10,1.5)}{200秒}
+    \put(4,-0.5){加熱時間}
+    \put(2,9.5){容器内の温度\tanni{℃}}
+    \namisen*[namisuu=1,namitakasa=0.1]{(4,3)}{(4,4)}
+    \namisen*[namisuu=1,namitakasa=0.1]{(8.5,5.8)}{(8.5,6.8)}
+\end{zahyou*}

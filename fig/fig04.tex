@@ -1,0 +1,35 @@
+\begin{zahyou*}[ul=6mm](-0.3,7)(-1,7.5)
+    \small
+    \def\Fx{-1*(X+2.5)*(X-2.5)}
+    \def\Gx{-1*(X-2.5)*(X-6.5)}
+    \def\A{(0,0)}
+    \def\AL{(\xmin,0)}
+    \def\B{(0,6.25)}
+    \def\C{(2.5,0)}
+    \def\D{(6.5,0)}
+    \def\DR{(\xmax,0)}
+    \def\E{(0,-0.5)}
+    \def\EL{(\xmin,-0.5)}
+    \def\F{(6.5,-0.5)}
+    \def\FR{(\xmax,-0.5)}
+    \def\vvec{(2,0)}
+    \Nuritubusi{\AL\EL\FR\DR\AL}
+    \Drawline{\AL\DR}
+    \Put\A(0pt,-10pt)[t]{A}
+    \Put\C(0pt,-10pt)[t]{C}
+    \Put\D(0pt,-10pt)[t]{D}
+    \YGurafu\Fx{0}{2.5}
+    \YGurafu\Gx{2.5}{6.5}
+    \HenKo<henkotype=parallel,
+    henkoH=0ex,
+    yazirusi=b
+    % henkosideb=0,
+    % henkosidet=1.2
+    >\A\B{$h$}
+    {\thicklines
+    \Kuromaru{\B}
+    \Put\B{\Yasen\vvec}}
+    \Put\B[w]{B}
+    \Put\B(35pt,0pt)[l]{$v_0$}
+
+\end{zahyou*}

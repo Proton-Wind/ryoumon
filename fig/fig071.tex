@@ -1,0 +1,22 @@
+{\small
+\begin{zahyou}[
+    ul=5mm
+    ,yokozikukigou=$x$\tanni{cm}
+    ,tatezikukigou=$y$\tanni{cm}
+    ,yokozikuhaiti={[ne]}
+    ,tatezikuhaiti={[n]}
+    ,xscale=0.1
+    ,yscale=2](0,150)(-1.5,1.5)
+    \def\Fx{-1*sin(2*$pi*(-1*X/80))}
+    \def\Gx{-1*sin(2*$pi*(10/8-1*X/80))}
+    {\thicklines
+    \YGurafu\Fx\xmin\xmax
+    \YGurafu(1)(.5)\Gx\xmin\xmax
+    }
+    \zahyouMemori[g][n]<dx=10,dy=0.5>
+    \xmemori{50}
+    \xmemori{100}
+    \xmemori{150}
+    \ymemori{1}
+    \ymemori{-1}
+\end{zahyou}}

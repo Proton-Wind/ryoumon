@@ -1,0 +1,119 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(21.7224,14.0846)(6.9390,-24.2815)%
+% BOX 2 5 1 0 Black Black  
+% 2 1817 1107 2912 2467
+% 
+\special{pn 0}%
+\special{sh 0.200}%
+\special{pa 1788 1090}%
+\special{pa 2866 1090}%
+\special{pa 2866 2428}%
+\special{pa 1788 2428}%
+\special{pa 1788 1090}%
+\special{ip}%
+\special{pn 8}%
+\special{pa 1788 1090}%
+\special{pa 2866 1090}%
+\special{pa 2866 2428}%
+\special{pa 1788 2428}%
+\special{pa 1788 1090}%
+\special{ip}%
+% BOX 1 0 3 0 Black White  
+% 2 918 1431 1466 1979
+% 
+\special{pn 13}%
+\special{pa 904 1408}%
+\special{pa 1443 1408}%
+\special{pa 1443 1948}%
+\special{pa 904 1948}%
+\special{pa 904 1408}%
+\special{pa 1443 1408}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1192 1979 1466 1431 1466 1431 918 1431
+% 
+\special{pn 8}%
+\special{ar 1173 1948 603 603 4.2487414 5.1760366}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1466 1705 918 1431 918 1431 918 1979
+% 
+\special{pn 8}%
+\special{ar 1443 1678 603 603 2.6779450 3.6052403}%
+% STR 2 0 3 0 Black White  
+% 4 1192 1274 1192 1342 5 0 1 0
+% $a$
+\put(11.7323,-13.2087){\makebox(0,0){{\colorbox[named]{White}{$a$}}}}%
+% STR 2 0 3 0 Black White  
+% 4 802 1637 802 1705 5 0 1 0
+% $b$
+\put(7.8937,-16.7815){\makebox(0,0){{\colorbox[named]{White}{$b$}}}}%
+% VECTOR 2 0 3 0 Black White  
+% 2 1493 1705 1767 1705
+% 
+\special{pn 8}%
+\special{pa 1469 1678}%
+\special{pa 1739 1678}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1739 1678}%
+\special{pa 1673 1658}%
+\special{pa 1687 1678}%
+\special{pa 1673 1698}%
+\special{pa 1739 1678}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1616 1545 1616 1613 5 0 1 0
+% $v$
+\put(15.9055,-15.8760){\makebox(0,0){{\colorbox[named]{White}{$v$}}}}%
+% LINE 2 0 3 0 Black White  
+% 2 1815 1096 1815 2465
+% 
+\special{pn 8}%
+\special{pa 1786 1079}%
+\special{pa 1786 2426}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 2910 2465 2910 1096
+% 
+\special{pn 8}%
+\special{pa 2864 2426}%
+\special{pa 2864 1079}%
+\special{fp}%
+% STR 2 0 3 0 Black Black  
+% 4 2362 1712 2362 1780 5 0 0 0
+% $\otimes$
+\put(23.2480,-17.5197){\makebox(0,0){$\otimes$}}%
+% STR 2 0 3 0 Black Black  
+% 4 2424 1589 2424 1657 2 0 0 0
+% $B$
+\put(23.8583,-16.3091){\makebox(0,0)[lb]{$B$}}%
+% VECTOR 2 0 3 0 Black Black  
+% 4 2362 1109 1815 1109 2362 1109 2910 1109
+% 
+\special{pn 8}%
+\special{pa 2325 1092}%
+\special{pa 1786 1092}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1786 1092}%
+\special{pa 1852 1111}%
+\special{pa 1839 1092}%
+\special{pa 1852 1072}%
+\special{pa 1786 1092}%
+\special{fp}%
+\special{pa 2325 1092}%
+\special{pa 2864 1092}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2864 1092}%
+\special{pa 2798 1072}%
+\special{pa 2812 1092}%
+\special{pa 2798 1111}%
+\special{pa 2864 1092}%
+\special{fp}%
+% STR 2 0 3 0 Black Black  
+% 4 2362 1041 2362 1109 5 0 1 0
+% $2a$
+\put(23.2480,-10.9154){\makebox(0,0){{\colorbox[named]{White}{$2a$}}}}%
+\end{picture}}%

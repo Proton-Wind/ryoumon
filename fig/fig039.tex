@@ -1,0 +1,42 @@
+{\unitlength5mm\small\Drawaxisfalse
+\begin{Zahyou}[(-1,0)][(-0.1,-0.3)][(0,0.2)](-5,5)(-5,5)(-15,8)
+    \def\Fx{cos(T)*3.5}
+    \def\Fy{sin(T)*3.5}
+    \def\Gx{cos(T)*0.3}
+    \def\Gy{sin(T)*0.3}
+    \def\O{(0,0,0)}
+    \def\A{(5,5,0)}
+    \def\B{(-5,5,0)}
+    \def\C{(-5,-5,0)}
+    \def\D{(5,-5,0)}
+    \def\OD{(0,0,-7.5)}
+    \def\ODD{(0,0,-15)}
+    \calcval{150*2*$pi/360}\t
+    \funcval\Fx{\t}\xi
+    \funcval\Fy{\t}\yi
+    \def\P{(\xi,\yi,0)}
+    \calcval{(\xi-1*\yi)}\xxi
+    \calcval{(\yi+\xi)}\yyi
+    \def\Q{(\xxi,\yyi,0)}
+    \iiiHenKo\P\O{$r$}
+    \iiiKuromaru\P
+    \iiiDrawline{\A\B\C\D\A}
+    \iiiDrawline{\O\P}
+    \iiiHenKo[0]\P\Q{$v_1$}
+    \iiiDashline[80]{0.08}{\O\OD}
+    \iiiDrawline{\OD\ODD}
+    {\thicklines
+    \iiiArrowLine\P\Q}
+    \iiiBGurafu(.05)(.02)\Fx\Fy{0}{0}{$pi*2}
+    \iiiBGurafu\Gx\Gy{0}{0}{$pi*2}
+    {\KuromaruHankei{3pt}
+    \iiiKuromaru\ODD
+    }
+    \iiiPut\O[nw]{O}
+    \iiiPut\P[s]{A}
+    \iiiPut\ODD[e]{B}
+    % \iiiPut\O{\kaitenkigou< hazimekaku=20,
+    %                         owarikaku=80,
+    %                         tyouhankei=17mm,
+    %                         tanhankei=5mm>[90]}
+\end{Zahyou}}

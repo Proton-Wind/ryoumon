@@ -1,0 +1,30 @@
+{\unitlength5mm\small
+% \Drawaxisfalse
+\begin{zahyou}[yokozikukigou={$V$}
+    ,tatezikukigou={$P$}
+    ,gentenkigou={0}](0,10)(0,10)
+\small
+\def\A{(4,4)}
+\def\B{(4,8)}
+\def\C{(8,4)}
+% \kuromaru{\A;\B;\C;\D;\E}
+\Put\A[sw]{A}
+\Put\B[n]{B}
+\Put\C[se]{C}
+\Put\A[syaei=xy,xlabel=V_1,ylabel=p_1]{}
+\Put\B[syaei=y,ylabel=2p_1]{}
+\Put\C[syaei=x,xlabel=2V_1]{}
+% \put(2.5,\YB){\yasen(-0.2,0)}
+% \put(2,\BCY){\yasen(0.2,-1.3)}
+% \put(5,\YC){\yasen(0.2,0)}
+% \calcval{(\YC+\YE)*0.5}\CDY
+% \put(\XD,\CDY){\yasen(0,0.5)}
+% \put(4.9,\AEY){\yasen(-0.2,0.8)}
+{\thicklines
+\Drawlines{\A\B\C\A}
+\changeArrowHeadSize<0.333>{2}
+\put(4,6){\yasen(0,0.1)}
+\put(6,6){\yasen(0.1,-0.1)}
+\put(6,4){\yasen(-0.1,0)}
+}
+\end{zahyou}}

@@ -1,0 +1,8 @@
+-q
+-dNOPAUSE
+-sDEVICE=pbmraw
+-sOUTPUTFILE=fig101.pdf.pbm
+-r274
+-g539x323
+tmp$.ps
+quit.ps

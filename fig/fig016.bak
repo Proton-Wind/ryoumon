@@ -1,0 +1,124 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(19.7000,9.2000)(4.0000,-12.0000)%
+% LINE 2 0 3 0 Black White  
+% 6 400 1200 1770 410 1770 410 1770 1200 1770 1200 400 1200
+% 
+\special{pn 8}%
+\special{pa 400 1200}%
+\special{pa 1770 410}%
+\special{fp}%
+\special{pa 1770 410}%
+\special{pa 1770 1200}%
+\special{fp}%
+\special{pa 1770 1200}%
+\special{pa 400 1200}%
+\special{fp}%
+% POLYGON 2 0 3 0 Black White  
+% 5 525 950 600 1080 773 980 698 850 525 950
+% 
+\special{pn 8}%
+\special{pa 525 950}%
+\special{pa 600 1080}%
+\special{pa 773 980}%
+\special{pa 698 850}%
+\special{pa 525 950}%
+\special{pa 600 1080}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 405 1200 705 1200 1775 1200 1775 410
+% 
+\special{pn 8}%
+\special{ar 405 1200 300 300 5.7601176 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 765 1050 765 1150 2 0 0 0
+% 30\Deg
+\put(7.6500,-11.5000){\makebox(0,0)[lb]{30\Deg}}%
+% LINE 2 0 3 0 Black White  
+% 4 735 920 1825 290 1775 410 1865 340
+% 
+\special{pn 8}%
+\special{pa 735 920}%
+\special{pa 1825 290}%
+\special{fp}%
+\special{pa 1775 410}%
+\special{pa 1865 340}%
+\special{fp}%
+% DOT 2 0 3 0 Black White  
+% 1 1865 340
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1865 340 8 8 0 6.2831853}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1865 340 1925 340 1925 340 1925 340
+% 
+\special{pn 8}%
+\special{ar 1865 340 60 60 0.0000000 6.2831853}%
+% LINE 2 0 3 0 Black White  
+% 2 1925 340 1925 740
+% 
+\special{pn 8}%
+\special{pa 1925 340}%
+\special{pa 1925 740}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1925 800 1985 800 1985 800 1985 800
+% 
+\special{pn 8}%
+\special{ar 1925 800 60 60 0.0000000 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 565 700 565 800 5 0 0 0
+% $m$
+\put(5.6500,-8.0000){\makebox(0,0){$m$}}%
+% STR 2 0 3 0 Black White  
+% 4 400 900 400 1000 2 0 0 0
+% P
+\put(4.0000,-10.0000){\makebox(0,0)[lb]{P}}%
+% STR 2 0 3 0 Black White  
+% 4 2005 620 2005 720 2 0 0 0
+% Q
+\put(20.0500,-7.2000){\makebox(0,0)[lb]{Q}}%
+% STR 2 0 3 0 Black White  
+% 4 1925 830 1925 930 5 0 0 0
+% $M$
+\put(19.2500,-9.3000){\makebox(0,0){$M$}}%
+% VECTOR 2 0 3 0 Black White  
+% 6 2125 930 2125 800 2125 1000 2125 1000 2125 1000 2125 1200
+% 
+\special{pn 8}%
+\special{pa 2125 930}%
+\special{pa 2125 800}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2125 800}%
+\special{pa 2105 867}%
+\special{pa 2125 853}%
+\special{pa 2145 867}%
+\special{pa 2125 800}%
+\special{fp}%
+\special{pa 2125 1000}%
+\special{pa 2125 1000}%
+\special{fp}%
+\special{pa 2125 1000}%
+\special{pa 2125 1200}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2125 1200}%
+\special{pa 2145 1133}%
+\special{pa 2125 1147}%
+\special{pa 2105 1133}%
+\special{pa 2125 1200}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2120 890 2120 990 5 0 1 0
+% $h$
+\put(21.2000,-9.9000){\makebox(0,0){{\colorbox[named]{White}{$h$}}}}%
+% LINE 2 0 3 0 Black White  
+% 2 1770 1200 2370 1200
+% 
+\special{pn 8}%
+\special{pa 1770 1200}%
+\special{pa 2370 1200}%
+\special{fp}%
+\end{picture}}%

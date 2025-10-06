@@ -1,0 +1,29 @@
+{\small
+\begin{zahyou*}[
+    ul=10mm
+    ,Hidariyohaku=10mm
+    ,Sitayohaku=70mm
+    ,xscale=1
+    ,yscale=0.2](0,5)(-5,5)
+    \def\Fx{5*sin(2*$pi *X/4)}
+    \def\O{(0,0)}
+    \zahyouMemori[g][n]<dx=1,dy=1>
+    {\thicklines
+    \YGurafu\Fx\xmin\xmax
+    }
+    \put(2,-8){$t$\tanni{\times 10^{-2}s}}
+    \put(2.5,-10){図２}
+    \drawline(0,0)(5,0)
+    \drawline(0,5)(0,-5)(5,-5)(5,5)(0,5)
+    \ymemori{0}
+    \ymemori{5}
+    \ymemori{-5}
+    \xmemori[{(0pt,-30pt)[t]}]{0}
+    \xmemori[{(0pt,-30pt)[t]}]{1}
+    \xmemori[{(0pt,-30pt)[t]}]{2}
+    \xmemori[{(0pt,-30pt)[t]}]{3}
+    \xmemori[{(0pt,-30pt)[t]}]{4}
+    \xmemori[{(0pt,-30pt)[t]}]{5}
+    \Put[kaiten=90]\O(-20pt,-20pt)[lb]{$y$\tanni{\times 10^{-3}m}}
+
+\end{zahyou*}}

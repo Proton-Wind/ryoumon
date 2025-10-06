@@ -1,0 +1,30 @@
+\unitlength5mm\small
+\Drawaxisfalse
+\begin{Zahyou}(0,8)(0,8)(0,8)
+    \small
+    \def\O{(0,0,0)}
+    \def\A{(5,0,0)}
+    \def\C{(0,5,0)}
+    \def\D{(0,0,5)}
+    \def\DD{(8,0,0)}
+    \def\OX{(6,0,0)}
+    \def\OY{(8,2,0)}
+    \def\OZ{(8,0,2)}
+    \def\W{(2.5,5,2.5)}
+    \iiiAddvec\A\C\B
+    \iiiAddvec\B\D\F
+    \iiiAddvec\C\D\G
+    \iiiAddvec\A\D\E
+    \iiiNuritubusi{\F\B\C\G\F}
+    \Kakutyuu{ABC}{O}{D}
+    \iiiHenKo\D\E{$L$}
+    \iiiHenKo\E\A{$L$}
+    \iiiHenKo\A\B{$L$}
+    \iiiArrowLine\DD\OX
+    \iiiArrowLine\DD\OY
+    \iiiArrowLine\DD\OZ
+    \iiiPut\OY{$x$}
+    \iiiPut\OX{$y$}
+    \iiiPut\OZ{$z$}
+    \iiiPut\W{W}
+\end{Zahyou}

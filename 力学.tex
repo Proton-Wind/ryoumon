@@ -1,0 +1,55 @@
+\documentclass[a4paper,9pt]{jsarticle}
+\usepackage{amsmath}
+\usepackage{amsthm,amssymb,color}
+\usepackage{enumerate,multicol}
+\usepackage{picins,emath,emathP,emathPp,itembbox,hako,mystyle}
+\usepackage{emathMw}
+\usepackage{graphicx}
+%\usepackage{array}
+\pagestyle{empty}
+\setlength{\textheight}{265mm}
+\setlength{\textwidth}{195mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-25.4mm}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\def\genshi#1#2#3{$^{#1}_{#2}${{\large \sffamily{#3}}}}
+\def\gen#1{\large \sf{#1}}
+\def\hic{cal/g$\cdot $K}
+\def\hij{J/g$\cdot $K}
+\def\tanni#1{$〔\mathrm{\sf #1}〕\kern -2pt$}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\def\gen#1#2#3{{\sf{\ce{_{#2}^{#1}#3}}}}
+
+\begin{document}
+\hakosyokika
+\begin{center}
+{\Large 物理演習【4月23日】}
+\end{center}
+\hfill ~\underline{~~~~~~番　氏名~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+\hakosyokika
+
+\begin{enumerate}
+    \input{01.tex}
+\newpage
+    \input{02.tex}
+\newpage
+    \input{03.tex}
+\newpage
+    \input{04.tex}
+% \newpage
+%     \input{05.tex}
+% \newpage
+%     \input{06.tex}
+% \newpage
+%     \input{07.tex}
+% \newpage
+%     \input{08.tex}
+% \newpage
+%     \input{09.tex}
+\vfill
+\end{enumerate}
+
+\end{document}

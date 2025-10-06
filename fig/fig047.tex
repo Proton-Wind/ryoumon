@@ -1,0 +1,47 @@
+\begin{zahyou*}[ul=6mm](-3,3)(-5,2)
+    \small
+    \def\Fy{-0.2*(cos(T)+T/4.5)-0.07}
+	\def\Fx{-0.5*sin(T)}
+	\BGurafu\Fx\Fy{$pi}{20*$pi}
+    \drawline(-0.8,2)(-0.8,-3.5)(-0.7,-3.5)(-0.7,2)(-0.8,2)
+    \drawline(0.8,2)(0.8,-3.5)(0.7,-3.5)(0.7,2)(0.8,2)
+    \def\A{(-0.65,0)}
+    \def\B{(0.65,0)}
+    \def\C{(0.65,0.5)}
+    \def\D{(-0.65,0.5)}
+    \def\E{(-0.65,-3.5)}
+    \def\F{(0.65,-3.5)}
+    \def\G{(0.65,-3)}
+    \def\H{(-0.65,-3)}
+    \def\O{(0,0)}
+    \def\OL{(-0.8,0)}
+    \def\P{(0,-1)}
+    \def\PU{(-0.8,1)}
+    \Put\P(-28pt,0)[r]{P}
+    \Nuritubusi*{\A\B\C\D\A}
+    \Nuritubusi[0]{\E\F\G\H\E}
+    \Nuritubusi*{\E\F\G\H\E}
+    \Drawline{\A\B\C\D\A}
+    \Drawline{\E\F\G\H\E}
+    {\thicklines
+    \drawline(-1.5,-3.5)(1.5,-3.5)
+    }
+    {\footnotesize \fboxsep=0pt
+    \Put\A(8pt,1.5pt)[lb]{\colorbox{white}{A}}
+    \Put\E(8pt,1.5pt)[lb]{\colorbox{white}{B}}
+    }
+    \HenKo<henkotype=parallel,
+    henkoH=6ex,
+    yazirusi=b,
+    henkosideb=0,
+    henkosidet=1.1>\O\P{$a$}
+    \HenKo<henkotype=parallel,
+    henkoH=2.5ex,
+    yazirusi=b,
+    henkosideb=0,
+    henkosidet=1.1>\PU\OL{$a$}
+    \Put\OL(-8mm,0)[l]{O}
+    \drawline(-2.5,0)(-2.3,0)
+    \put(-2.4,1.5){\yasen(0,-3.5)}
+    \put(-2.55,-2.3){$x$}
+\end{zahyou*}

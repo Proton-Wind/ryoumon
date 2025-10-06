@@ -1,0 +1,24 @@
+{\small
+\begin{zahyou}[
+    ul=8mm
+    ,yokozikukigou=$x$\tanni{m}
+    ,tatezikukigou=$y$\tanni{m}
+    ,yokozikuhaiti={[se]}
+    ,tatezikuhaiti={[n]}
+    ,xscale=1
+    ,yscale=10](-2,5.5)(-0.15,0.15)
+    \def\Fx{0.1*cos(2*$pi *X/4)}
+    \tenretu*{
+        A(5,0.15);
+        B(5,-0.15);
+        C(5.2,-0.15);
+        D(5.2,0.15);
+    }
+    \Nuritubusi[0.3]{\A\B\C\D\A}
+    \Drawlines{\A\B}
+    {\thicklines
+    \YGurafu\Fx\xmin{5}
+    }
+    \put(5.2,0.01){P}
+    \zahyouMemori<dx=1,dy=0.1>
+\end{zahyou}}

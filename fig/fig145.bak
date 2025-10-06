@@ -1,0 +1,482 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(18.1200,13.6500)(6.1500,-25.0000)%
+% VECTOR 2 3 3 0 Black White  
+% 4 1300 2000 2400 2000 1500 2400 1500 1200
+% 
+\special{pn 8}%
+\special{pn 8}%
+\special{pa 1300 2000}%
+\special{pa 1313 2000}%
+\special{fp}%
+\special{pa 1334 2000}%
+\special{pa 1342 2000}%
+\special{fp}%
+\special{pa 1362 2000}%
+\special{pa 1376 2000}%
+\special{fp}%
+\special{pa 1396 2000}%
+\special{pa 1405 2000}%
+\special{fp}%
+\special{pa 1425 2000}%
+\special{pa 1439 2000}%
+\special{fp}%
+\special{pa 1459 2000}%
+\special{pa 1467 2000}%
+\special{fp}%
+\special{pa 1487 2000}%
+\special{pa 1501 2000}%
+\special{fp}%
+\special{pa 1521 2000}%
+\special{pa 1529 2000}%
+\special{fp}%
+\special{pa 1550 2000}%
+\special{pa 1563 2000}%
+\special{fp}%
+\special{pa 1584 2000}%
+\special{pa 1592 2000}%
+\special{fp}%
+\special{pa 1613 2000}%
+\special{pa 1626 2000}%
+\special{fp}%
+\special{pa 1647 2000}%
+\special{pa 1655 2000}%
+\special{fp}%
+\special{pa 1675 2000}%
+\special{pa 1689 2000}%
+\special{fp}%
+\special{pa 1709 2000}%
+\special{pa 1717 2000}%
+\special{fp}%
+\special{pa 1738 2000}%
+\special{pa 1751 2000}%
+\special{fp}%
+\special{pa 1772 2000}%
+\special{pa 1780 2000}%
+\special{fp}%
+\special{pa 1800 2000}%
+\special{pa 1814 2000}%
+\special{fp}%
+\special{pa 1834 2000}%
+\special{pa 1842 2000}%
+\special{fp}%
+\special{pa 1863 2000}%
+\special{pa 1876 2000}%
+\special{fp}%
+\special{pa 1896 2000}%
+\special{pa 1904 2000}%
+\special{fp}%
+\special{pa 1925 2000}%
+\special{pa 1938 2000}%
+\special{fp}%
+\special{pa 1959 2000}%
+\special{pa 1967 2000}%
+\special{fp}%
+\special{pa 1987 2000}%
+\special{pa 2001 2000}%
+\special{fp}%
+\special{pa 2021 2000}%
+\special{pa 2029 2000}%
+\special{fp}%
+\special{pa 2050 2000}%
+\special{pa 2063 2000}%
+\special{fp}%
+\special{pa 2084 2000}%
+\special{pa 2092 2000}%
+\special{fp}%
+\special{pa 2112 2000}%
+\special{pa 2126 2000}%
+\special{fp}%
+\special{pa 2146 2000}%
+\special{pa 2154 2000}%
+\special{fp}%
+\special{pa 2175 2000}%
+\special{pa 2188 2000}%
+\special{fp}%
+\special{pa 2209 2000}%
+\special{pa 2217 2000}%
+\special{fp}%
+\special{pa 2237 2000}%
+\special{pa 2251 2000}%
+\special{fp}%
+\special{pa 2271 2000}%
+\special{pa 2279 2000}%
+\special{fp}%
+\special{pa 2300 2000}%
+\special{pa 2313 2000}%
+\special{fp}%
+\special{pa 2334 2000}%
+\special{pa 2342 2000}%
+\special{fp}%
+\special{pa 2362 2000}%
+\special{pa 2376 2000}%
+\special{fp}%
+\special{pa 2396 2000}%
+\special{pa 2400 2000}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2400 2000}%
+\special{pa 2333 1980}%
+\special{pa 2347 2000}%
+\special{pa 2333 2020}%
+\special{pa 2400 2000}%
+\special{fp}%
+\special{pn 8}%
+\special{pa 1500 2400}%
+\special{pa 1500 2386}%
+\special{fp}%
+\special{pa 1500 2366}%
+\special{pa 1500 2358}%
+\special{fp}%
+\special{pa 1500 2337}%
+\special{pa 1500 2324}%
+\special{fp}%
+\special{pa 1500 2303}%
+\special{pa 1500 2295}%
+\special{fp}%
+\special{pa 1500 2275}%
+\special{pa 1500 2261}%
+\special{fp}%
+\special{pa 1500 2241}%
+\special{pa 1500 2233}%
+\special{fp}%
+\special{pa 1500 2212}%
+\special{pa 1500 2199}%
+\special{fp}%
+\special{pa 1500 2178}%
+\special{pa 1500 2170}%
+\special{fp}%
+\special{pa 1500 2150}%
+\special{pa 1500 2136}%
+\special{fp}%
+\special{pa 1500 2116}%
+\special{pa 1500 2108}%
+\special{fp}%
+\special{pa 1500 2087}%
+\special{pa 1500 2074}%
+\special{fp}%
+\special{pa 1500 2053}%
+\special{pa 1500 2045}%
+\special{fp}%
+\special{pa 1500 2025}%
+\special{pa 1500 2011}%
+\special{fp}%
+\special{pa 1500 1991}%
+\special{pa 1500 1983}%
+\special{fp}%
+\special{pa 1500 1962}%
+\special{pa 1500 1949}%
+\special{fp}%
+\special{pa 1500 1928}%
+\special{pa 1500 1920}%
+\special{fp}%
+\special{pa 1500 1900}%
+\special{pa 1500 1886}%
+\special{fp}%
+\special{pa 1500 1866}%
+\special{pa 1500 1858}%
+\special{fp}%
+\special{pa 1500 1837}%
+\special{pa 1500 1824}%
+\special{fp}%
+\special{pa 1500 1803}%
+\special{pa 1500 1795}%
+\special{fp}%
+\special{pa 1500 1775}%
+\special{pa 1500 1762}%
+\special{fp}%
+\special{pa 1500 1741}%
+\special{pa 1500 1733}%
+\special{fp}%
+\special{pa 1500 1713}%
+\special{pa 1500 1699}%
+\special{fp}%
+\special{pa 1500 1679}%
+\special{pa 1500 1671}%
+\special{fp}%
+\special{pa 1500 1650}%
+\special{pa 1500 1637}%
+\special{fp}%
+\special{pa 1500 1616}%
+\special{pa 1500 1608}%
+\special{fp}%
+\special{pa 1500 1588}%
+\special{pa 1500 1574}%
+\special{fp}%
+\special{pa 1500 1554}%
+\special{pa 1500 1546}%
+\special{fp}%
+\special{pa 1500 1525}%
+\special{pa 1500 1512}%
+\special{fp}%
+\special{pa 1500 1491}%
+\special{pa 1500 1483}%
+\special{fp}%
+\special{pa 1500 1463}%
+\special{pa 1500 1449}%
+\special{fp}%
+\special{pa 1500 1429}%
+\special{pa 1500 1421}%
+\special{fp}%
+\special{pa 1500 1400}%
+\special{pa 1500 1387}%
+\special{fp}%
+\special{pa 1500 1366}%
+\special{pa 1500 1358}%
+\special{fp}%
+\special{pa 1500 1338}%
+\special{pa 1500 1324}%
+\special{fp}%
+\special{pa 1500 1304}%
+\special{pa 1500 1296}%
+\special{fp}%
+\special{pa 1500 1275}%
+\special{pa 1500 1262}%
+\special{fp}%
+\special{pa 1500 1241}%
+\special{pa 1500 1233}%
+\special{fp}%
+\special{pa 1500 1213}%
+\special{pa 1500 1200}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1500 1200}%
+\special{pa 1480 1267}%
+\special{pa 1500 1253}%
+\special{pa 1520 1267}%
+\special{pa 1500 1200}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 4 1500 2000 1800 1800 1500 2000 2000 2300
+% 
+\special{pn 8}%
+\special{pa 1500 2000}%
+\special{pa 1800 1800}%
+\special{da 0.015}%
+\special{pa 1500 2000}%
+\special{pa 2000 2300}%
+\special{da 0.015}%
+% CIRCLE 2 0 2 0 Black White  
+% 4 2000 2300 2045 2300 2045 2300 2045 2300
+% 
+\special{sh 0}%
+\special{ia 2000 2300 45 45 0.0000000 6.2831853}%
+\special{pn 8}%
+\special{ar 2000 2300 45 45 0.0000000 6.2831853}%
+% VECTOR 1 0 3 0 Black White  
+% 2 2000 2300 2300 2500
+% 
+\special{pn 13}%
+\special{pa 2000 2300}%
+\special{pa 2300 2500}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2300 2500}%
+\special{pa 2256 2446}%
+\special{pa 2256 2470}%
+\special{pa 2233 2480}%
+\special{pa 2300 2500}%
+\special{fp}%
+% POLYLINE 2 0 3 0 Black White  
+% 58 1802 1798 1804 1782 1805 1775 1808 1770 1811 1766 1814 1762 1819 1760 1825 1760 1831 1760 1838 1762 1853 1766 1861 1769 1868 1771 1875 1771 1880 1771 1886 1770 1890 1767 1893 1763 1895 1757 1897 1750 1900 1719 1902 1712 1904 1706 1907 1702 1910 1698 1915 1696 1920 1695 1927 1696 1933 1697 1963 1706 1970 1707 1976 1707 1981 1706 1986 1703 1989 1699 1991 1694 1993 1688 1994 1681 1995 1672 1996 1656 1998 1650 2000 1643 2002 1638 2006 1635 2011 1633 2016 1631 2022 1631 2029 1633 2059 1641 2065 1643 2071 1643 2077 1641 2081 1640 2085 1636 2087 1631 2089 1625 2091 1618 2092 1602
+% 
+\special{pn 8}%
+\special{pa 1802 1798}%
+\special{pa 1804 1782}%
+\special{pa 1805 1775}%
+\special{pa 1808 1770}%
+\special{pa 1814 1762}%
+\special{pa 1819 1760}%
+\special{pa 1831 1760}%
+\special{pa 1838 1762}%
+\special{pa 1853 1766}%
+\special{pa 1861 1769}%
+\special{pa 1868 1771}%
+\special{pa 1880 1771}%
+\special{pa 1886 1770}%
+\special{pa 1890 1767}%
+\special{pa 1893 1763}%
+\special{pa 1895 1757}%
+\special{pa 1897 1750}%
+\special{pa 1900 1719}%
+\special{pa 1902 1712}%
+\special{pa 1904 1706}%
+\special{pa 1910 1698}%
+\special{pa 1915 1696}%
+\special{pa 1920 1695}%
+\special{pa 1927 1696}%
+\special{pa 1933 1697}%
+\special{pa 1963 1706}%
+\special{pa 1970 1707}%
+\special{pa 1976 1707}%
+\special{pa 1981 1706}%
+\special{pa 1986 1703}%
+\special{pa 1989 1699}%
+\special{pa 1991 1694}%
+\special{pa 1993 1688}%
+\special{pa 1994 1681}%
+\special{pa 1995 1672}%
+\special{pa 1996 1656}%
+\special{pa 1998 1650}%
+\special{pa 2000 1643}%
+\special{pa 2002 1638}%
+\special{pa 2006 1635}%
+\special{pa 2016 1631}%
+\special{pa 2022 1631}%
+\special{pa 2029 1633}%
+\special{pa 2059 1641}%
+\special{pa 2065 1643}%
+\special{pa 2071 1643}%
+\special{pa 2077 1641}%
+\special{pa 2081 1640}%
+\special{pa 2085 1636}%
+\special{pa 2087 1631}%
+\special{pa 2089 1625}%
+\special{pa 2091 1618}%
+\special{pa 2092 1602}%
+\special{fp}%
+% VECTOR 2 0 3 0 Black White  
+% 2 2102 1598 2307 1453
+% 
+\special{pn 8}%
+\special{pa 2102 1598}%
+\special{pa 2307 1453}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2307 1453}%
+\special{pa 2241 1475}%
+\special{pa 2263 1484}%
+\special{pa 2264 1508}%
+\special{pa 2307 1453}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2207 1703 2207 1753 2 0 0 0
+% 散乱X線
+\put(22.0700,-17.5300){\makebox(0,0)[lb]{散乱X線}}%
+% STR 2 0 3 0 Black White  
+% 4 2200 2350 2200 2400 2 0 0 0
+% $v$
+\put(22.0000,-24.0000){\makebox(0,0)[lb]{$v$}}%
+% FUNC 2 0 3 0 Black White  
+% 10 700 1950 1050 2067 700 2008 758 2008 700 1985 700 1950 1050 2067 0 2 1 0 0 0
+% sin(x)
+\special{pn 8}%
+\special{pa 700 2008}%
+\special{pa 710 1996}%
+\special{pa 715 1991}%
+\special{pa 720 1988}%
+\special{pa 725 1986}%
+\special{pa 730 1985}%
+\special{pa 735 1986}%
+\special{pa 740 1989}%
+\special{pa 745 1993}%
+\special{pa 750 1998}%
+\special{pa 760 2010}%
+\special{pa 765 2017}%
+\special{pa 770 2022}%
+\special{pa 775 2026}%
+\special{pa 780 2029}%
+\special{pa 785 2031}%
+\special{pa 790 2031}%
+\special{pa 795 2029}%
+\special{pa 800 2026}%
+\special{pa 805 2021}%
+\special{pa 825 1997}%
+\special{pa 830 1992}%
+\special{pa 835 1988}%
+\special{pa 840 1986}%
+\special{pa 845 1985}%
+\special{pa 850 1986}%
+\special{pa 855 1988}%
+\special{pa 860 1992}%
+\special{pa 865 1997}%
+\special{pa 885 2021}%
+\special{pa 890 2026}%
+\special{pa 895 2029}%
+\special{pa 900 2031}%
+\special{pa 905 2031}%
+\special{pa 910 2029}%
+\special{pa 915 2026}%
+\special{pa 920 2022}%
+\special{pa 925 2017}%
+\special{pa 930 2010}%
+\special{pa 940 1998}%
+\special{pa 945 1993}%
+\special{pa 950 1989}%
+\special{pa 955 1986}%
+\special{pa 960 1985}%
+\special{pa 965 1986}%
+\special{pa 970 1988}%
+\special{pa 975 1991}%
+\special{pa 980 1996}%
+\special{pa 1000 2020}%
+\special{pa 1005 2025}%
+\special{pa 1010 2028}%
+\special{pa 1015 2030}%
+\special{pa 1020 2031}%
+\special{pa 1025 2030}%
+\special{pa 1030 2027}%
+\special{pa 1035 2023}%
+\special{pa 1040 2018}%
+\special{pa 1050 2006}%
+\special{fp}%
+% VECTOR 2 0 3 0 Black White  
+% 2 1050 2000 1250 2000
+% 
+\special{pn 8}%
+\special{pa 1050 2000}%
+\special{pa 1250 2000}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1250 2000}%
+\special{pa 1183 1980}%
+\special{pa 1197 2000}%
+\special{pa 1183 2020}%
+\special{pa 1250 2000}%
+\special{fp}%
+% CIRCLE 2 0 2 0 Black White  
+% 4 1500 2000 1545 2000 1545 2000 1545 2000
+% 
+\special{sh 0}%
+\special{ia 1500 2000 45 45 0.0000000 6.2831853}%
+\special{pn 8}%
+\special{ar 1500 2000 45 45 0.0000000 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 707 2158 707 2208 2 0 0 0
+% 入射X線
+\put(7.0700,-22.0800){\makebox(0,0)[lb]{入射X線}}%
+% STR 2 0 3 0 Black White  
+% 4 890 1850 890 1900 5 0 0 0
+% $\lambda $
+\put(8.9000,-19.0000){\makebox(0,0){$\lambda $}}%
+% STR 2 0 3 0 Black White  
+% 4 1890 1550 1890 1600 5 0 0 0
+% $\lambda '$
+\put(18.9000,-16.0000){\makebox(0,0){$\lambda '$}}%
+% STR 2 0 3 0 Black White  
+% 4 2390 2050 2390 2100 5 0 0 0
+% $x$
+\put(23.9000,-21.0000){\makebox(0,0){$x$}}%
+% STR 2 0 3 0 Black White  
+% 4 1390 1150 1390 1200 5 0 0 0
+% $y$
+\put(13.9000,-12.0000){\makebox(0,0){$y$}}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1500 2000 1700 2000 2500 2600 2500 2000
+% 
+\special{pn 8}%
+\special{ar 1500 2000 200 200 6.2831853 0.5404195}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1500 2000 1750 2000 1750 2000 2250 1500
+% 
+\special{pn 8}%
+\special{ar 1500 2000 250 250 5.6951827 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1795 1875 1795 1925 2 0 0 0
+% $\theta$
+\put(17.9500,-19.2500){\makebox(0,0)[lb]{$\theta$}}%
+% STR 2 0 3 0 Black White  
+% 4 1765 2095 1765 2145 2 0 0 0
+% $\phi $
+\put(17.6500,-21.4500){\makebox(0,0)[lb]{$\phi $}}%
+\end{picture}}%

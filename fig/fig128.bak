@@ -1,0 +1,128 @@
+﻿%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(13.1800,12.4300)(4.0000,-14.5500)%
+% LINE 2 0 3 0 Black White  
+% 2 1700 400 500 400
+% 
+\special{pn 8}%
+\special{pa 1700 400}%
+\special{pa 500 400}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 500 1400 1700 1400
+% 
+\special{pn 8}%
+\special{pa 500 1400}%
+\special{pa 1700 1400}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 500 1150 500 1400
+% 
+\special{pn 8}%
+\special{pa 500 1150}%
+\special{pa 500 1400}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 500 400 500 1100
+% 
+\special{pn 8}%
+\special{pa 500 400}%
+\special{pa 500 1100}%
+\special{fp}%
+% LINE 1 0 3 0 Black White  
+% 2 450 1100 550 1100
+% 
+\special{pn 13}%
+\special{pa 450 1100}%
+\special{pa 550 1100}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 600 1150 400 1150
+% 
+\special{pn 8}%
+\special{pa 600 1150}%
+\special{pa 400 1150}%
+\special{fp}%
+% BOX 2 0 2 0 Black White  
+% 2 450 600 550 900
+% 
+\special{pn 0}%
+\special{sh 0}%
+\special{pa 450 600}%
+\special{pa 550 600}%
+\special{pa 550 900}%
+\special{pa 450 900}%
+\special{pa 450 600}%
+\special{ip}%
+\special{pn 8}%
+\special{pa 450 600}%
+\special{pa 550 600}%
+\special{pa 550 900}%
+\special{pa 450 900}%
+\special{pa 450 600}%
+\special{pa 550 600}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 450 305 450 355 5 0 0 0
+% a
+\put(4.5000,-3.5500){\makebox(0,0){a}}%
+% STR 2 0 3 0 Black White  
+% 4 450 1405 450 1455 5 0 0 0
+% c
+\put(4.5000,-14.5500){\makebox(0,0){c}}%
+% STR 2 0 3 0 Black White  
+% 4 1750 1405 1750 1455 5 0 0 0
+% d
+\put(17.5000,-14.5500){\makebox(0,0){d}}%
+% STR 2 0 3 0 Black White  
+% 4 1750 305 1750 355 5 0 0 0
+% b
+\put(17.5000,-3.5500){\makebox(0,0){b}}%
+% LINE 0 0 3 0 Black White  
+% 2 1250 355 1250 1455
+% 
+\special{pn 20}%
+\special{pa 1250 355}%
+\special{pa 1250 1455}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1250 235 1250 285 5 0 0 0
+% L
+\put(12.5000,-2.8500){\makebox(0,0){L}}%
+% VECTOR 2 0 3 0 Black White  
+% 4 1500 800 1500 400 1500 1000 1500 1400
+% 
+\special{pn 8}%
+\special{pa 1500 800}%
+\special{pa 1500 400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1500 400}%
+\special{pa 1480 467}%
+\special{pa 1500 453}%
+\special{pa 1520 467}%
+\special{pa 1500 400}%
+\special{fp}%
+\special{pa 1500 1000}%
+\special{pa 1500 1400}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1500 1400}%
+\special{pa 1520 1333}%
+\special{pa 1500 1347}%
+\special{pa 1480 1333}%
+\special{pa 1500 1400}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1500 850 1500 900 5 0 0 0
+% $\ell$
+\put(15.0000,-9.0000){\makebox(0,0){$\ell$}}%
+% STR 2 0 3 0 Black White  
+% 4 800 750 800 800 5 0 0 0
+% $\odot$
+\put(8.0000,-8.0000){\makebox(0,0){$\odot$}}%
+% STR 2 0 3 0 Black White  
+% 4 890 850 890 900 2 0 0 0
+% $B$
+\put(8.9000,-9.0000){\makebox(0,0)[lb]{$B$}}%
+\end{picture}}%

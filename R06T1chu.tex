@@ -1,0 +1,275 @@
+%\documentclass[b5j,10pt]{jsarticle}
+\documentclass[b5j,9.5pt]{jsbook}
+\usepackage[noalphabet]{pxchfon}
+\setminchofont{UDDIGIKYOKASHON-R.TTC} 
+\setgothicfont{UDDIGIKYOKASHON-B.TTC} 
+%\setminchofont{BIZ-UDMINCHOM.TTC} 
+%\setgothicfont{BIZ-UDGOTHICR.TTC} 
+\usepackage{okumacro}
+\usepackage{amsmath,amsthm,amssymb,fancybox}
+\usepackage{enumerate,multicol}
+\usepackage{ascmac,itembbox,emath,hako,scrpage,ulinej,emathP,emathPp,emathMw,emathEy}
+\usepackage[version=4]{mhchem}
+%\usepackage[draft]{graphicx}
+\usepackage{graphicx}
+\usepackage{picins}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-17.4mm}
+%\setlength{\columnseprule}{0.4pt}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\santaku{{\bfseries ア}～{\bfseries ウ}}
+\def\yontaku{{\bfseries ア}～{\bfseries エ}}
+\def\gotaku{{\bfseries ア}～{\bfseries オ}}
+\def\rokutaku{{\bfseries ア}～{\bfseries カ}}
+\def\nanataku{{\bfseries ア}～{\bfseries キ}}
+\def\sbou#1#2{$_{\sf{#1}}$\kern-0.2pt \ulinej{#2}}%
+\def\tanni#1{$〔\mathrm{\sf #1}〕\kern -2pt$}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\def\gen#1#2#3{{\sf{\ce{_{#2}^{#1}#3}}}}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+%\setcounter{page}{1}
+\newpagestyle{custom}{(0mm,0pt)%
+{\hfill}
+ {%
+ \begin{minipage}{16.5cm}
+ {\bf {\large 令和６年度一学期中間考査　１年物理基礎（専門科）}}\hfill T1A原田，T1BCD舟橋　R6.5.16〔木〕~2限\\
+※定規使用可能
+ \end{minipage}
+}%
+{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{\hfill}{\hfill}{\hfill}%
+(0mm,0pt)}
+\pagestyle{custom}
+\begin{enumerate}
+	\item 以下の問いに答えよ。
+		\begin{enumerate}
+			\item 有効数字に注意して，以下の計算をせよ。ただし，$\sqrt{3}=1.73205\cdots$とする。
+				\begin{edaenumerate}<3>[m]
+					\item $3.14\times 3.0$
+					\item $\bunsuu{\sqrt{3}}{2.0} $
+					\item $35.2+3.26$
+				\end{edaenumerate}
+				\hakosyokika
+			\item 次の数値を\karaHako$\times 10^n$の形で表せ。$1\leqq \karaHako < 10$とし，有効数字は2桁とする。
+				\begin{edaenumerate}<3>[m]
+					\item 380000
+					\item 0.0016
+					\item 0.5000
+				\end{edaenumerate}
+			\item 25\sftanni{m/s}は何\sftanni{km/h}か。
+			\item 流水の速さが$2.0$\sftanni{m/s}のまっすぐな川を静水時の速さが$5.0$\sftanni{m/s}の船が下流から上流へ向かって進んでいるときの，川岸で静止している人から見た船の速さ（速度の大きさ）は何\sftanni{m/s}か。
+			\item 東西に通じる道路上を，次のように自転車A,Bが進むとき，自転車Aに対する自転車Bの相対速度はどの向きに何\sftanni{m/s}か。
+				\begin{enumerate}[m]
+					\item Aは東向きに$2.0$\sftanni{m/s}の速さ，Bは東向き$3.0$\sftanni{m/s}の速さ
+					\item Aは西向きに$2.0$\sftanni{m/s}の速さ，Bは東向き$3.0$\sftanni{m/s}の速さ
+				\end{enumerate}
+			\item 次の各場合について，物体の平均加速度$\bar{a}$\tanni{m/s}を求めよ。
+				\begin{enumerate}[m]
+					\item 一直線上を正の向きに$5.0$\sftanni{m/s}で進む物体が，$2.0$秒後に正の向きに$9.0$\sftanni{m/s}になったとき。
+					\item 一直線上を正の向きに$5.0$\sftanni{m/s}で進む物体が，$2.0$秒後に負の向きに$4.0$\sftanni{m/s}になったとき。
+				\end{enumerate}
+			\item $3.0$\sftanni{m/s}で動いてた物体が一定の加速度$1.5$\sftanni{m/s^2}で速さを増した。
+				\begin{enumerate}[m]
+					\item $2.0$秒後の物体の速さは何\sftanni{m/s}か。
+					\item $2.0$秒後までに物体が進んだ距離は何\sftanni{m}か。
+				\end{enumerate}
+			\item $2.0$\sftanni{m/s}の速さで動いていた物体が，一定の加速度$5.0$\sftanni{m/s^2}で速さを増し，$6.0$\sftanni{m/s}の速さになった。この間に物体が進んだ距離は何\sftanni{m}か。
+		\end{enumerate}
+	\vfill
+	\item
+	\begin{mawarikomi}(30pt,0pt){150pt}{
+		\begin{zahyou}[ul=3.5mm
+			,yokozikukigou=$t$\tanni{s}
+			,tatezikukigou=$x$\tanni{m}
+			,yokozikuhaiti={[s]}
+			,migiyohaku=.5
+			](0,10)(0,10)%
+			\zahyouMemori[g][n]<2>
+			\def\Fx{1/8*X*X}
+			\def\O{(2,0)}
+			\def\A{(10,8)}
+			\def\P{(4,2)}
+			\def\L{(8,6)}
+			\def\M{(10,5)}
+			\Put\P[nw]{P}
+			\kuromaru{\P}
+			{\Thicklines
+			\YGurafu\Fx{0}{9}
+			\Hasen*{\O\A}
+			}
+			\xmemori<2.0>{2}
+			\xmemori<4.0>{4}
+			\xmemori<6.0>{6}
+			\xmemori<8.0>{8}
+			\ymemori<2.0>{2}
+			\ymemori<4.0>{4}
+			\ymemori<6.0>{6}
+			\ymemori<8.0>{8}
+%			\HenKo[0]\O\A{L}
+			\PutStr\M{L}to\L
+		\end{zahyou}
+	}%
+	図は，$x$軸上を運動する物体の位置$x$と経過時間$t$の関係をグラフに表したものである($x-t$図)。図の破線Lは点Pにおける接線である。
+	\begin{enumerate}
+		\item 時刻$4.0～8.0$秒の間の平均の速度は何\sftanni{m/s}か。
+		\item 時刻$4.0$秒における瞬間の速さは何\sftanni{m/s}か。
+	\end{enumerate}
+	\end{mawarikomi}
+\vfill
+\item 東西に通じる道路上を自動車A，B，Cが進んでいる。自動車Aの速度は東向きに15\sftanni{m/s}である。以下の問いに答えよ。
+\begin{enumerate}
+	\item 自動車Bに対する自動車Aの相対速度は西向き8\sftanni{m/s}であった。自動車Bの速度はどちら向きに何\sftanni{m/s}か。
+	\item 自動車Cに対する自動車Aの相対速度が東向き20\sftanni{m/s}であるとき，(1)の自動車Bに対する自動車Cの相対速度はどちら向きに何\sftanni{m/s}か。
+\end{enumerate}
+\vfill
+\newpage
+\item 速さ15.0\sftanni{m/s}で運動していた自動車が，一定の加速度で速さを増し，$2.0$秒後に$20.0$\sftanni{m/s}の速さになった。
+	\begin{enumerate}
+		\item このときの加速度の大きさを求めよ。
+		\item 自動車が加速している間に進んだ距離を求めよ。
+		\item こののち，自動車が急ブレーキをかけて，一定の加速度で減速し，$50$\sftanni{m}進んで静止した。運動の向きを正として，このときの加速度を求めよ。
+	\end{enumerate}
+\vfill
+\item
+	\begin{mawarikomi}(30pt,0pt){150pt}{
+		\begin{zahyou}[ul=3.5mm
+			,yokozikukigou=$t$\tanni{s}
+			,tatezikukigou=$v$\tanni{m/s}
+			,yokozikuhaiti={[s]}
+			,migiyohaku=.5
+			,yscale=0.5
+			](0,9)(-6,15)%
+			\def\Fx{-1.5*X+9}
+			\def\tval{8}
+			\YTen\Fx\tval\V
+			{\Thicklines
+			\YGurafu\Fx{0}{8}
+			}
+			\ymemori<9.0>{9}
+			\Put\V[
+				syaei=xy
+				,xlabel=8.0
+				,ylabel=-3.0
+			]{}
+		\end{zahyou}
+		}
+		図は，$x$軸上を等加速度直線運動している物体が，原点を時刻0\sftanni{s}に通過した後の，8.0秒間の速度と時間の関係を表す$v-t$図である。
+		\begin{enumerate}
+			\item 物体の加速度$a$\tanni{m/s^2}を求めよ。
+			\item 物体が原点から最も遠ざかるときの時刻$t_1$\tanni{s}と，その位置$x_1$\tanni{m}を求めよ。
+			\item 8.0秒後の物体の位置$x_2$\tanni{m}を求めよ。
+			\item 8.0秒間に物体が移動した距離（道のり）$L$\tanni{m}を求めよ。
+			\item 経過時間$t$\tanni{s}と物体の位置$x$\tanni{m}の関係をグラフに示せ。
+		\end{enumerate}
+	\end{mawarikomi}
+\vfill
+\item
+	\begin{mawarikomi}(15pt,0pt){150pt}{
+		\begin{zahyou}[ul=3.5mm
+			,yokozikukigou=$t$\tanni{s}
+			,tatezikukigou=$a$\tanni{m/s^2}
+			,yokozikuhaiti={[s]}
+			,tatezikuhaiti={[e]}
+			,ueyohaku=0
+			,migiyohaku=0.5
+			,yscale=1.5
+			](0,12)(-3,3)%
+			\def\O{(0,2)}
+			\def\A{(3,2)}
+			\def\B{(3,0)}
+			\def\D{(7,0)}
+			\def\E{(7,-1.5)}
+			\def\F{(11,-1.5)}
+			{\Thicklines
+			\Drawline{\O\A}
+			\Drawline{\B\D}
+			\Drawline{\E\F}
+			}
+			\Put\A[
+				syaei=xy
+				,xlabel=3.0
+				,ylabel=2.0
+			]{}
+			\Put\E[
+				syaei=xy
+				,xlabel=7.0
+				,ylabel=-1.5
+			]{}
+			\Put\F[
+				syaei=x
+				,xlabel=11.0
+			]{}
+		\end{zahyou}
+		}
+	右の図は，止まっていたエレベーターが上昇し，停止するまでの加速度$a$\tanni{m/s^2}の時間変化を表したグラフである。
+		\begin{enumerate}
+			\item 時刻$5.0$\tanni{s}のエレベーターの速さは何\sftanni{m/s}か。
+			\item エレベーターの速度$v$\tanni{m/s}と時間$t$\tanni{s}との関係をグラフに示せ。
+			\item $11.0$秒間にエレベーターが上昇した高さ$h$\tanni{m}を求めよ。
+			\item エレベーターの上昇距離$x$\tanni{m}と時間$t$\tanni{s}との関係をグラフに示せ。
+		\end{enumerate}
+	\end{mawarikomi}
+\vfill
+\item
+\begin{mawarikomi}(30pt,0pt){120pt}{
+	\begin{zahyou}[ul=3.5mm
+		,yokozikukigou=$t$\tanni{s}
+		,tatezikukigou=$v$\tanni{m/s}
+		,yokozikuhaiti={[s]}
+		,tatezikuhaiti={[w]}
+		,ueyohaku=2
+		,migiyohaku=0.5
+		,yscale=0.4
+		,xscale=1.8
+		](0,5)(0,25)%
+		\def\Ba{(0,21)}
+		\def\Bb{(2,15)}
+		\def\Bc{(4,9)}
+		\def\Aa{(0,6)}
+		\def\Ab{(2,6)}
+		\def\Ac{(4,9)}
+		\def\Aq{(3,5)}
+		\def\Bq{(3,20)}
+		{\Thicklines
+		\Drawline{\Ba\Bb\Bc}
+		\Drawline{\Aa\Ab\Ac}
+		}
+		\ymemori<21.0>{21}
+		\ymemori<6.0>{6}
+		\Put\Bb[
+			syaei=xy
+			,xlabel=2.0
+			,ylabel=15.0
+		]{}
+		\Put\Bc[
+			syaei=x
+			,xlabel=4.0
+		]{}
+		\PutStr\Aq{A}to\Ab
+		\PutStr\Bq{B}to\Bb
+	\end{zahyou}
+	}
+	直線状の道路を速さ$21.0$\sftanni{m/s}で走っていた自動車Bの運転手は，前方に同じ方向に走る自動車Aを発見し，ブレーキをかけて一定の加速度で減速し始めた。ブレーキをかけた瞬間を時刻$t=0$\sftanni{s}とすると，Bは$t=2.0$\sftanni{s}に速さ$15.0$\sftanni{m/s}になった。\\
+	~~一方，速さ$6.0$\sftanni{m/s}の等速で進んでいたAは，$t=2.0$\sftanni{s}の瞬間からアクセルを踏んで，一定の加速度で加速し始めた。その結果，$t=4.0$\sftanni{s}のとき，車間間隔は最も短くなって，$3.0$\sftanni{m}となり，衝突をまぬがれた。右図は，自動車A，Bの$v-t$図である。A，Bの進行方向を正として以下の問いに答えよ。
+	\begin{enumerate}
+		\item 自動車Bの加速度$a_\mathrm{B}$\tanni{m/s^2}を求めよ。
+		\item 時刻$t=2.0～4.0$\sftanni{s}の自動車Aの加速度$a_\mathrm{A}$\tanni{m/s^2}を求めよ。
+		\item 時刻$t=2.0$\sftanni{s}の瞬間のAとBの車間距離$L $\tanni{m}を求めよ。
+		\item 時刻$t=0$\sftanni{s}の瞬間のAとBの車間距離$L_0 $\tanni{m}を求めよ。
+	\end{enumerate}
+
+	\end{mawarikomi}
+\end{enumerate}
+	% 〔計算用紙〕
+\vfill
+\end{document}

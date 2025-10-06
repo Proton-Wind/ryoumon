@@ -1,0 +1,51 @@
+\def\genshi#1#2#3{$^{#1}_{#2}${{\large \sffamily{#3}}}}
+\def\gen#1{\large \sf{#1}}
+\def\budoto{{\sf C$_6$H$_{12}$O$_6$}}
+\def\mizu{{\sf H$_2$O}}
+\def\nisankatanso{{\sf CO$_2$}}
+\def\nyusan{{\sf C$_3$H$_{6}$O$_3$}}
+\def\ethanol{{\sf C$_2$H$_5$OH}}
+\def\sanso{{\sf O$_2$}}
+\def\metan{{\sf CH$_4$}}
+\def\puropan{{\sf C$_3$H$_8$}}
+
+\newenvironment{fminipage}%
+{\begin{Sbox}\begin{minipage}}%
+{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
+
+\makeatletter
+  \def\vcc#1{\leavevmode\vbox{%
+  \baselineskip\z@skip\lineskip.25ex
+  \ialign{##\crcr\tiny\hfill
+   \begin{picture}(10,10)%
+    \special{pn 4}%
+    \special{pa -50 0}%
+    \special{pa 180 0}%
+    \special{fp}%
+    \special{sh 1}%
+    \special{pa 180 0}%
+    \special{pa 150 -10}%
+    \special{pa 165 0}%
+    \special{pa 150 10}%
+    \special{pa 180 0}%
+    \special{fp}%
+   \end{picture}%
+  \hfill\crcr\hfill \mathstrut #1\hfill\crcr}}}
+  \def\vc#1{\leavevmode\vbox{%
+  \baselineskip\z@skip\lineskip.25ex
+  \ialign{##\crcr\tiny\hfill
+   \begin{picture}(10,10)%
+    \special{pn 4}%
+    \special{pa 35 0}%
+    \special{pa 110 0}%
+    \special{fp}%
+    \special{sh 1}%
+    \special{pa 110 0}%
+    \special{pa 80 -10}%
+    \special{pa 95 0}%
+    \special{pa 80 10}%
+    \special{pa 110 0}%
+    \special{fp}%
+   \end{picture}%
+  \hfill\crcr\hfill \mathstrut #1\hfill\crcr}}}
+\makeatother

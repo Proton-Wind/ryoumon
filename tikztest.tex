@@ -1,0 +1,10 @@
+\documentclass[dvipdfmx]{jsarticle}% 適切なドライバ指定が必要
+\usepackage[svgnames]{xcolor}% tikzより前に読み込む必要あり
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}
+\draw [help lines] (0,0) grid (10,4);%(0,0)から(10,4)までの"細線の方眼"
+
+%%直線の例
+\draw (0,0) -- (2,1)  [rounded corners]--(2,2) -- (0,2) [sharp corners] --  (0,1)-- (1,1);
+   %点(0,0), (2,1), (2,2), (0,2), (0,1), (1,1)を結ぶ"線分"で，(2,2)と(0,2)では"滑らか"

@@ -1,0 +1,46 @@
+\begin{zahyou*}[ul=5mm](-5,6)(-4,4)
+	% \drawline(-1,-1)(-1,13)(13,13)(13,-1)(-1,-1)
+	\def\kakudoA{40}
+	\def\kakudoB{-40}
+%	\calcval{\kakudo *2*3.14159265/360}\TH
+	\def\O{(0,0)}
+	\def\XR{(6,0)}
+	\def\XL{(-4,0)}
+	\def\C{(4,0)}
+	\def\YU{(0,4)}
+	\def\YD{(0,-4)}
+	\def\ovec{(2,0)}
+	\Kaiten\O\C{\kakudoA}\AA
+	\Kaiten\O\C{\kakudoB}\BB
+	\Kaiten\O\XR{\kakudoA}\AAE
+	\Kaiten\O\XR{\kakudoB}\BBE
+	\ArrowLine<sensyu=\protect\hasen>\XL\XR
+	\ArrowLine<sensyu=\protect\hasen>\O\YU
+	\ArrowLine\AA\AAE
+	\ArrowLine\BB\BBE
+	\Put\XL{\Yasen<[n]{$v_0$}>\ovec}
+	\Hasen{\O\AA}
+	\Hasen{\O\BB}
+	\En*\XL{0.3}
+	\En\XL{0.3}
+	\En*[0]\AA{0.3}
+	\En\AA{0.3}
+	\En*[0]\BB{0.3}
+	\En**\BB{0.3}
+	\En\BB{0.3}
+	\En*\O{0.3}
+	\En**\O{0.3}
+	\En\O{0.3}
+	\Kakukigou\C\O\AA<hankei=1.0>[ne]{$\theta $}
+	\Kakukigou\BB\O\C<hankei=1.0>[se]{$\theta $}
+	\Put\BB(-2pt,-8pt)[t]{B}
+	\Put\O(-6pt,-5pt)[t]{$M$}
+	\Put\O(-6pt,8pt)[r]{B}
+	\Put\AA(-3pt,8pt)[b]{A}
+	\Put\XL(0pt,8pt)[b]{A}
+	\Put\XL(0pt,-8pt)[t]{$m$}
+	\Put\XR[s]{$x$}
+	\Put\YU[w]{$y$}
+	\Put\AAE[n]{$v$}
+	\Put\BBE[s]{$V$}
+\end{zahyou*}

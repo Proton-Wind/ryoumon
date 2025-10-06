@@ -1,0 +1,29 @@
+\begin{zahyou}[ul=6mm
+    ,xscale=0.017
+    ,yscale=0.4
+    ,Hidariyohaku=30pt
+    ,Sitayohaku=20pt
+    ,yokozikukigou=時間\tanni{秒}
+    ,tatezikukigou=温度\tanni{℃}
+    ,yokozikuhaiti={(0,-10pt)[rt]}](0,500)(0,22)
+    \small
+    \def\Fx{X/50+10}
+    \def\Gx{X/100+10}
+    \tenretu*<perl>{
+        A(100,100/100+10);
+        B(200,200/100+10);
+        C(300,300/100+10);
+        D(400,400/100+10);
+        E(100,100/50+10);
+        F(200,200/50+10);
+        G(300,300/50+10);
+        H(400,400/50+10);
+    }
+    \kuromaru{\A;\B;\C;\D;\E;\F;\G;\H}
+    \zahyouMemori[g]<dx=100,dy=2>
+    \YGurafu\Fx{0}{500}
+    \YGurafu\Gx{0}{500}
+    \Put\D[se]{実験2}
+    \Put\H[nw]{実験1}
+    \put(200,-4){図２}
+\end{zahyou}
